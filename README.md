@@ -95,7 +95,7 @@ docker-compose up --build
 - ✅ Optimize Queries for High Performance
 
 ## 👨‍💻 Contributors
-- Raul Giblak(https://github.comgibihub)
+- Raul Giblak(https://github.com/gibihub)
 
 ## 📜 License
 This project is licensed under the MIT License.
